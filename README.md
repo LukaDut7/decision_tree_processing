@@ -44,7 +44,7 @@ The system allows clients to define decision trees using JSON. Each decision tre
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LukaDut7/decision_tree_processing.git
    cd decision-tree-processing
 
 2. **Install Dependencies**
